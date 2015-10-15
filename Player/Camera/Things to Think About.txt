@@ -1,0 +1,1 @@
+Instead of three seperate scripts all running a mono Update(), run all checks on the player and call functions defined in these classes.
